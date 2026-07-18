@@ -1,0 +1,6 @@
+{
+  "name": "Gamak Makhana",
+  "description": "Gamak Makhana Brand website with an e-commerce storefront for selling roasted lotus seeds",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
